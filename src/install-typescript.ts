@@ -1,2 +1,3 @@
-let message: string = "HEllo ts-node"
-console.log({message})
+let message: string = "HEllo ts-node!!";
+console.log({ message });
+
